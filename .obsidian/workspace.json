@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "5f5b4245585ec734",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac284b4ff2aa90b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac7f34e78f2b0757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "名刀册分支/名刀册——Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "65417d56304a52f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3635e7afa14f653b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8a8f0a2f64bf792",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8c0f43385f68ffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "180a5b89fe52b44f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c72c85a640ffca3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b0f650299570fd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ad6c24a0ac7d98",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "名刀册分支/名刀册——Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dd1f261ed8c1415",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "名刀册分支/名刀册——Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ac9ed13df785697",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e269f5ba049b14e7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "名刀册分支/名刀册——Main.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "ac7f34e78f2b0757",
+  "lastOpenFiles": [
+    "怪物召唤与生成/怪物系统——Main.md",
+    "杂项/移除深渊国度.md",
+    "核心/Boc V1.9001.md",
+    "杂项/难度系统.md",
+    "杂项/基于随机标记的刷怪塔与露营检测机制.md",
+    "核心/工作优先级.md",
+    "核心/维度设定.md",
+    "建立基于随机标记的刷怪塔/露营检测机制.md",
+    "建立基于随机标记的刷怪塔",
+    "名刀册分支/名刀册——Main.md",
+    "拔刀剑魔改/拔刀剑魔改——Main.md",
+    "拔刀剑魔改/锻刀系统和经验——Main.md",
+    "装备系统重做/装备系统——Main.md",
+    "装备系统重做/未完成拔刀剑魔改前的装备修订思路.md",
+    "装备系统重做/完成拔刀剑魔改后的装备修订思路.md",
+    "资源获取修订/悬赏系统.md",
+    "资源获取修订/资源获取修订——Main.md",
+    "怪物召唤与生成/流程调整.md",
+    "核心",
+    "未命名.md",
+    "2023-10-13.md",
+    "未命名.canvas",
+    "拔刀剑魔改",
+    "名刀册分支",
+    "杂项",
+    "装备系统重做",
+    "修改经验和锻刀系统",
+    "资源获取修订",
+    "怪物召唤与生成"
+  ]
+}
